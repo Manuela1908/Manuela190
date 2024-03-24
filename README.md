@@ -1,4 +1,4 @@
-<h2 align="center">Hi 👋! My name is Manuela and I'm a intern developer</h2>
+<h2 align="center">Hi 👋! My name is Manuela and I'm a development intern</h2>
 
 
 ###
