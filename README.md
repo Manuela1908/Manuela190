@@ -1,38 +1,48 @@
-# Olá, Aventureiro!
+<h2 align="left">Hi 👋! My name is Manuela and I'm a intern developer</h2>
 
-Bem-vindo ao meu repositório de RPG, onde eu, um(a) aventureiro(a) em busca de conhecimento, compartilho minhas habilidades e conquistas!
+###
 
-![Aventureiro em Ação](url_da_imagem_ou_gif_animado)
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=maurodesouza&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=maurodesouza&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+</div>
 
-## Sobre Mim
+###
 
-Meu nome é [Seu Nome], e sou um(a) aventureiro(a) habilidoso(a) que viaja pelas terras do código em busca de conhecimento e desafios.
+<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
 
-### Habilidades
+###
 
-- **Programação em Python:** Nível 2
-- **Algoritmos e Estruturas de Dados:** Nível 3
-- **Versionamento com Git:** Nível 1
-- **Resolução de Problemas:** Nível 5
-- **Trabalho em Equipe:** Nível 4
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="=java logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original.svg" height="30" alt="=lua logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
+  <img width="12" />
+</div>
 
-## Objetivos
+###
 
-Atualmente estou em busca de novos conhecimentos em:
+<div align="left">
+  <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
+  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
+  <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitch logo"  />
+  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
+  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+</div>
 
-1. Integração e desenvolvimento de APIs
-2. Aprendizado de Machine Learning
-3. Automação de processos
+###
 
-## Próxima Missão
+<br clear="both">
 
-Minha próxima missão é dominar os conhecimentos em desenvolvimento web para criar minha própria taverna online onde outros aventureiros possam compartilhar suas histórias e conquistas.
+<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
 
-## Contribuindo
-
-Se você, também um(a) aventureiro(a) do código, deseja contribuir para minha jornada, sinta-se à vontade para enviar suas sugestões e melhorias através de Pull Requests.
-
-## Contato
-
-Você pode me encontrar nas tavernas virtuais ou me enviar uma mensagem de corvo para colaborar em projetos ou simplesmente trocar experiências!
-manuelapinho0518@gmail.com
+###
